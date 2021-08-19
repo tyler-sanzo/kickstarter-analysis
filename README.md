@@ -23,3 +23,6 @@ Louise is looking to raise money for her play through Kickstarter, a crowdfundin
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+
+
+![test](https://github.com/tyler-sanzo/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
