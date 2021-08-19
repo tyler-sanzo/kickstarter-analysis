@@ -1,8 +1,10 @@
-# Crowdfunding Project Analysis 
+# Kickstarting with Excel
 
-## Using data from Kickstarter to provide meaningful analysis on what makes a project successful or unsuccessful. 
+## Overview of Project
+Using data from Kickstarter to provide meaningful analysis on what makes a project successful or unsuccessful.
 
-### Louise is looking to raise money for her play through Kickstarter, a crowdfunding platform dedicated to help bring creative projects to life. With the help of excel, we are tasked with using a variety of data pulled from thousands of Kickstarter projects to help Louise succeed with her campaign.
+### Purpose
+Louise is looking to raise money for her play through Kickstarter, a crowdfunding platform dedicated to help bring creative projects to life. With the help of excel, we are tasked with using a variety of data pulled from thousands of Kickstarter projects to help Louise succeed with her campaign.
 
 ## Analysis and Challenges
 
