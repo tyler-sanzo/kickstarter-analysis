@@ -10,10 +10,10 @@ Louise is looking to raise money for her play through Kickstarter, a crowdfundin
 The base dataset we were give was a table of kickstarter projects that summarized each project by giving financial information, when the campaign started/ended, the category and subcategory, and the location of the project. Having all of this information is useful because it allows us to make more accurate analyses by drilling down the data to only projects related to Louise's. 
 
 ### Analysis of Outcomes Based on Launch Date
-Using the data provided about the start dates of the kickstarter projects can give us an idea on when successfully funded projects are started. A pivot table was created  and used to plt the number of outcomes for each series (successful, failed, canceled) against months of the year. The most appropriate graph for this was a line graph as we want to see how these outcomes trend throughout the year.
+Using the data provided about the start dates of the kickstarter projects can give us an idea on when successfully funded projects are started. A pivot table was created and used to plot the number of outcomes for each series (successful, failed, canceled) against months of the year. The most appropriate graph for this was a line graph as we want to see how these outcomes trend throughout the year.
 
 ### Analysis of Outcomes Based on Goals
-To further assist Louise, we were able to use the amount of funding each project was asking for and the outcome of the project to give her a better understanding on an appropriate amount of funding she should ask for in order for her project to succeed. Goal amounts were binned into 12 ranges and the counts of all 3 outcomes were calculated for each of these ranges. 
+To further assist Louise, we were able to use the amount of funding each project was asking for and the outcome of the project to give her a better understanding on an appropriate amount of funding she should ask for for her project to succeed. Goal amounts were binned into 12 ranges and the counts of all 3 outcomes were calculated for each of these ranges. 
 
 ### Challenges and Difficulties Encountered
 One challenged faced in the outcomes based on goals analysis was setting up the COUNTIFS function such that goal amount bins were created based on certain dollar ranges. To overcome this and clean up the formula, two columns were created with the lower and upper bound of each range for reference in the formula. 
